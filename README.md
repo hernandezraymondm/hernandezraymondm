@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ray Hernandez! &nbsp; [![](https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10)](https://visitcount.itsvg.in)
 
-👨‍💻 A full stack web developer <br>🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>📚 Education: BS in Information Technology from Cavite State University, Philippines <br>🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>🤖 Current Exploration: Diving deep into the world of generative AI and its applications
+👨‍💻 A full stack developer <br>🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>📚 Education: BS in Information Technology from Cavite State University, Philippines <br>🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>🤖 Current Exploration: Diving deep into the world of generative AI and its applications
 <!--
 🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>
 📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences
