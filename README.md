@@ -12,9 +12,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 
