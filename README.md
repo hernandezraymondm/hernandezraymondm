@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>👋 Hi, I'm Ray Hernandez!</h1>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10" alt="Visit Count"/></a>
-</div>
+# 👋 Hi, I'm Ray Hernandez! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10)](https://visitcount.itsvg.in)
 
 👨‍💻 A full stack web developer <br>🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>📚 Education: BS in Information Technology from Cavite State University, Philippines <br>🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>🤖 Current Exploration: Diving deep into the world of generative AI and its applications <br>🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences<br><br>📫 How to reach me rayhernandez.dev@gmail.com
 
