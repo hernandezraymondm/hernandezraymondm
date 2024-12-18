@@ -1,11 +1,20 @@
-# 👋 Hi, I'm Ray Hernandez! &nbsp; [![](https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10)](https://visitcount.itsvg.in)
+![Discord Banner Gif Maker (1)](https://github.com/user-attachments/assets/4e58c07f-a553-45ed-a5fd-2dd1e4db9f9b)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-👨‍💻 Full Stack Developer <br>🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>📚 Education: BS in Information Technology from Cavite State University, Philippines <br>🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>🤖 Current Exploration: Diving deep into the world of generative AI and its applications
+[![](https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10)](https://visitcount.itsvg.in) <br>
+👨‍💻 Full Stack Developer <br>
+🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
+📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
+🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>
+🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
+🤖 Current Exploration: Diving deep into the world of generative AI and its applications
 <!--
 🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>
 📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences
 -->
 📫 How to reach me rayhernandez.dev@gmail.com
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
@@ -13,7 +22,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="150"/>
 </div>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
@@ -31,7 +41,9 @@
 
 
 
-# 📚 Recent Projects:
+### 📚 Recent Projects:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="250" width="45%"/>
