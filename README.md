@@ -31,7 +31,7 @@
 
 
 
-# 📚 Recent Personal Projects:
+# 📚 Recent Projects:
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="250" width="45%"/>
