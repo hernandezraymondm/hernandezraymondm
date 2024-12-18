@@ -34,13 +34,16 @@
 # 📚 Recent Projects:
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="250"/>
+    <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="250" width="45%"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="250"/>
+    <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="250" width="45%"/>
   </a>
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+[![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
+[![Pomodoro AI](https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4)](https://pomodoroai-ray.vercel.app/ "Pomodoro AI")
+-->
