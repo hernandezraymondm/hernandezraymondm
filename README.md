@@ -22,7 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="150"/>
 </div>
 
-### 💻 Tech Stack:
+### 💻 My Skill Set:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
@@ -41,7 +41,7 @@
 
 
 
-### 📚 Recent Projects:
+### 📚 My Recent Projects:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
