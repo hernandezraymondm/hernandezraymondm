@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10)](https://visitcount.itsvg.in) <br>
 👨‍💻 Full Stack Developer <br>
-🧠 Experienced in: NEXT.js, MERN, Nest.Js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
+🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
 📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
 🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>
 🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
