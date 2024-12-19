@@ -1,7 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
 
-<img align="right" alt="Visitcount" src="https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10" alt="Visit Count" /> 
-
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 👨‍💻 I'm a Full Stack Developer <br>
