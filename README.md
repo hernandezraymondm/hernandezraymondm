@@ -18,13 +18,6 @@
 🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>
 📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences
 -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center">
-    <img src="https://ghchart.rshah.org/af00fa//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="120" width="25%"/> -->
-</div>
-<br>
 
 <!--
 <div align="center">
@@ -51,7 +44,18 @@
 | | | | | | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | |
 <br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<img src="https://ghchart.rshah.org/7755ca//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="125" width="32%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" height="125" width="32%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="125" width="32%"/>
+</div>
+<br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
