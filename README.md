@@ -12,15 +12,18 @@
 🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>
 📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences
 -->
-📫 How to reach me rayhernandez.dev@gmail.com
+📫 How to reach me: rayhernandez.dev@gmail.com
 
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" height="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="150"/>
 </div>
+
 
 ### 💻 My Skill Set:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
