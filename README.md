@@ -56,13 +56,14 @@
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
+    <img src="https://github.com/user-attachments/assets/52322775-3d17-4d67-80f9-3510f09ce9e9" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/hernandezraymondm/count.svg">    
-    <img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
+    <img src="https://github.com/user-attachments/assets/52322775-3d17-4d67-80f9-3510f09ce9e9" width="30">
 </div>
 
 
 <!-- 
+<img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
 [![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
 [![Pomodoro AI](https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4)](https://pomodoroai-ray.vercel.app/ "Pomodoro AI")
 -->
