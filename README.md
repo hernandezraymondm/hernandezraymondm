@@ -44,11 +44,11 @@
 
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="300" width="45%"/>
+    <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="290" width="47%"/>
   </a>
   &nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="300" width="45%"/>
+    <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="290" width="47%"/>
   </a>
 </div>
 <br>
