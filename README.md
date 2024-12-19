@@ -49,11 +49,11 @@
 
 <img src="https://ghchart.rshah.org/7755ca//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="120" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="120" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" height="120" width="30%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="120" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" height="120" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="120" />
 </div>
 <br>
 
