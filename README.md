@@ -1,7 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img align="right" alt="Visitcount" src="https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10" alt="Visit Count" /> 
 
