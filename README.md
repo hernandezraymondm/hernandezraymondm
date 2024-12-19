@@ -1,11 +1,11 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="2" width="100%">
 
 ![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
 
 <img align="right" alt="Visitcount" src="https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10" alt="Visit Count" /> 
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 👨‍💻 I'm a Full Stack Developer <br>
 🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
 📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
@@ -28,7 +28,7 @@
 </div>
 -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
@@ -45,7 +45,7 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
 <img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
 <div align="center">
@@ -56,7 +56,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
@@ -67,7 +67,7 @@
     <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="250" width="45%"/>
   </a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="2" width="100%">
 
 
 <!-- 
