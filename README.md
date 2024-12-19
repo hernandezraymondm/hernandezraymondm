@@ -1,5 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="2" width="100%">
-
 ![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
 
 <img align="right" alt="Visitcount" src="https://visitcount.itsvg.in/api?id=hernandezraymondm&icon=0&color=10" alt="Visit Count" /> 
@@ -67,7 +65,7 @@
     <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="250" width="45%"/>
   </a>
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="2" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 <!-- 
