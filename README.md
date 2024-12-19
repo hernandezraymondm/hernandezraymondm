@@ -64,7 +64,9 @@
   </a>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"> -->
+    
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/dc4e1432-3381-42b0-9cf8-ed63f22d2290" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/hernandezraymondm/count.svg">    
