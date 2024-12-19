@@ -5,7 +5,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-👨‍💻 Full Stack Developer <br>
+👨‍💻 I'm a Full Stack Developer <br>
 🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
 📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
 🔐 Specializing in: Building secure web applications with advanced authentication and biometrics <br>
