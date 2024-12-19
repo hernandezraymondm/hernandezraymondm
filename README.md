@@ -1,7 +1,8 @@
 ![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="5" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%"> 
 👨‍💻 I'm a Full Stack Developer <br>
 🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
 📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
@@ -9,20 +10,7 @@
 🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
 🤖 Current Exploration: Diving deep into the world of generative AI and its applications<br>
 📫 How to reach me: rayhernandez.dev@gmail.com<br><br>
-<!--
-🌍 Interests: Tech innovation, open-source projects, and continuous learning <br>
-📈 Goals: To leverage cutting-edge technologies to solve real-world problems and enhance user experiences
--->
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" height="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" height="150"/>
-</div>
--->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
