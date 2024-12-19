@@ -51,7 +51,7 @@
     <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="250" width="45%"/>
   </a>
 </div>
-
+<br>
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
