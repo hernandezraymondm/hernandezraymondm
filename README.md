@@ -28,10 +28,9 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813" alt="Kickstop" height="270" width="48%"/>
+    <img src="https://github.com/user-attachments/assets/0343c483-54d0-4ec1-8a3c-56773b83135f" alt="Kickstop" height="270" width="48%"/>
   </a>
   &nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
@@ -62,6 +61,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
+https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813
+
 <img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
 [![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
 [![Pomodoro AI](https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4)](https://pomodoroai-ray.vercel.app/ "Pomodoro AI")
