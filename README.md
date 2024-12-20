@@ -30,7 +30,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0343c483-54d0-4ec1-8a3c-56773b83135f" alt="Kickstop" height="270" width="48%"/>
+    <img src="https://github.com/user-attachments/assets/eceb26ba-30a4-4ed2-897f-fa2172c630f8" alt="Kickstop" height="270" width="48%"/>
   </a>
   &nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
