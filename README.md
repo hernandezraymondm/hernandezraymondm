@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
+![banner](https://github.com/user-attachments/assets/2bc935c2-72ac-4d2e-95d2-7bd7a6d46284)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
@@ -61,6 +61,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
 https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813
+
+![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
 
 <img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
 [![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
