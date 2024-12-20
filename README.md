@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 👨‍💻 I'm a Full Stack Developer <br>
 🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
-📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
+📚 Education: BS in Information Technology from Cavite State University <br>
 🔐 Specializing in: Building performant, scalable, SEO-friendly, and secure web applications<br>
 🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
 🤖 Current Exploration: Diving deep into the world of generative AI and its applications<br>
