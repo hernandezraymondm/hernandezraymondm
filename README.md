@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 👨‍💻 I'm a Full Stack Developer <br>
 🧠 Experienced in: NEXT.js, MERN, Nest.js, Typescript, JavaScript, React, Node.js, Express, MongoDB, MySQL, Postgres<br>
 📚 Education: BS in Information Technology from Cavite State University, Philippines <br>
@@ -12,7 +12,7 @@
 📫 How to reach me: rayhernandez.dev@gmail.com<br><br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
@@ -27,7 +27,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/eceb26ba-30a4-4ed2-897f-fa2172c630f8" alt="Kickstop" height="270" width="48%"/>
@@ -40,7 +40,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" height="1" width="100%">
 
 <img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
 <div align="center">
@@ -48,11 +48,10 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="150" />
 </div>
-<br>
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/52322775-3d17-4d67-80f9-3510f09ce9e9" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/hernandezraymondm/count.svg">    
