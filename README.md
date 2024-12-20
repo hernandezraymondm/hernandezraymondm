@@ -51,7 +51,7 @@
 <br>
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/52322775-3d17-4d67-80f9-3510f09ce9e9" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/hernandezraymondm/count.svg">    
